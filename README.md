@@ -27,6 +27,8 @@ This documented is intended for users beginning to use elastic cloud trial versi
 # Elastic Stack graph:
 ![image](https://user-images.githubusercontent.com/50335583/139047613-1490c116-feed-4cc8-91bd-706ac2f84ce7.png)
 ![image](https://user-images.githubusercontent.com/50335583/139048155-6b932ec5-577e-44e7-b720-3d9dcfd43807.png)
+![image](https://user-images.githubusercontent.com/50335583/139049212-753632c3-b09c-40bd-9155-9ab4905dedec.png)
+
 
 
 
