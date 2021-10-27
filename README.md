@@ -21,4 +21,8 @@ This documented is intended for users beginning to use elastic cloud trial versi
 5. Overview of Host:
 ![image](https://user-images.githubusercontent.com/50335583/139039427-915b8fb1-405d-41df-ab72-bea10391f8a3.png)
 
+# Looking for Agent files and settings:
+![image](https://user-images.githubusercontent.com/50335583/139040368-cc934b69-a44b-44bb-9c26-0b6ad6bf2e74.png)
+
+
 
