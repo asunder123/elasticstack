@@ -12,5 +12,5 @@ This documented is intended for users beginning to use elastic cloud trial versi
  ![image](https://user-images.githubusercontent.com/50335583/139027745-92d836b2-add2-497c-b313-cfb020b1f82c.png)
  
  4. Elastic Agent Data in Kibana :
-   
-   ![image](https://user-images.githubusercontent.com/50335583/139028154-06b5e63d-dc18-4c51-855e-4e01acd6d822.pn
+![image](https://user-images.githubusercontent.com/50335583/139028355-9d2eb7f6-69bc-4d8b-9b81-3e95f79989db.png)
+
