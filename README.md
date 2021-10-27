@@ -24,5 +24,9 @@ This documented is intended for users beginning to use elastic cloud trial versi
 # Looking for Agent files and settings:
 ![image](https://user-images.githubusercontent.com/50335583/139040368-cc934b69-a44b-44bb-9c26-0b6ad6bf2e74.png)
 
+# Elastic Stack graph:
+![image](https://user-images.githubusercontent.com/50335583/139047613-1490c116-feed-4cc8-91bd-706ac2f84ce7.png)
+
+
 
 
